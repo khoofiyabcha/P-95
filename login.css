@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(darkgoldenrod, red);
+}
+
+#output {
+    margin-top: 200px;
+    margin-left: 480px;
+    width: 600px;
+    background-color: rgba(255, 255, 255, 0.466);
+    height: 180px;
+    border-radius: 20px;
+}
+
+#heading {
+    color: white;
+}
+
+#user_name {
+    border-color: darkgoldenrod;    
+    background-color: rgba(255, 255, 255, 0.746);
+}
+
+#loginBTN {
+    background-color: darkred;
+    color: white;
+    border-color: rgb(116, 0, 0);
+    border-width: 2px;
+}
+
+#loginBTN:hover {
+    background-color: rgb(109, 0, 0);
+}

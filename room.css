@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(red, darkgoldenrod);
+}
+
+#logout {
+    margin-left: 1170px;
+    margin-top: 20px; 
+    font-size: 15px;
+    font-family: "Shadows Into Light";
+}
+
+#roomnameInput {
+    margin-top: 150px;
+    width: 90%;
+}
+
+#addRoomBTN {
+    margin-top: 20px;
+    margin-left: 40%;
+}
+
+#flame {
+    height: 600px;
+    width: 1537px;
+    margin-left: -200px;
+    margin-top: -180px;
+}
+
+#usernameOutput {
+    margin-top: 50px;
+    margin-left: 33%;
+    color: white;
+}
